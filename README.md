@@ -1,4 +1,4 @@
-# andreaszuyu.github.pi
+# andreaszuyu.github.io
 我是以ref1模板為基礎加上ref2模板的其中一部分
 將我要用的ref2部分貼到ref1 index.html自己想要的地方
 將ref2 head部分裡的link貼到ref1 head裡（為index.html裡<!--CSS from other template-->部分）
